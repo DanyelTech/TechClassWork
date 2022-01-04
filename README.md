@@ -1,2 +1,2 @@
 # TechClassWork
-This is my highschool tech class work 
+This is my grade 9 highschool tech class work 
